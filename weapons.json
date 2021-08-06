@@ -1,0 +1,476 @@
+{
+	"legends": {
+		"default": [
+			"Bloodhound",
+			"Gibraltar",
+			"Lifeline",
+			"Pathfinder",
+			"Wraith",
+			"Bangalore"
+		],
+		"unlockable": [
+			"Caustic",
+			"Mirage",
+			"Octane",
+			"Wattson",
+			"Crypto",
+			"Revenant",
+			"Loba",
+			"Rampart",
+			"Horizon",
+			"Fuse",
+			"Valkarie"
+		]
+	},
+	"weapons": [
+		{
+			"name": "Boceck Compound Bow",
+			"ammoType": "bow",
+			"weaponType": "bow",
+			"hop-up": [
+				"Deadeye's Tempo (Epic)",
+				"Shatter Caps (Epic)"
+			],
+			"multiple-hop-ups": true
+		},
+		{
+			"name": "EVA-8 Auto",
+			"ammoType": "shotgun",
+			"weaponType": "shotgun",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Mastiff Shotgun",
+			"ammoType": "shotgun",
+			"weaponType": "shotgun",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Mozambique Shotgun",
+			"ammoType": "shotgun",
+			"weaponType": "pistol",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Peacekeeper",
+			"ammoType": "shotgun",
+			"weaponType": "shotgun",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Alternator SMG",
+			"ammoType": "heavy",
+			"weaponType": "smg",
+			"legendary": true,
+			"supplyDropOnly": true,
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Kraber .50-Cal Sniper",
+			"ammoType": "sniper",
+			"weaponType": "sniper",
+			"legendary": true,
+			"supplyDropOnly": true,
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Triple Take",
+			"ammoType": "energy",
+			"weaponType": "marksman",
+			"legendary": true,
+			"supplyDropOnly": true,
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "M600 Spitfire",
+			"ammoType": "heavy",
+			"weaponType": "smg",
+			"legendary": true,
+			"supplyDropOnly": true,
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Devotion LMG",
+			"ammoType": "energy",
+			"weaponType": "lmg",
+			"hop-up": ["Turbocharger (Legendary)"],
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Havoc Rifle",
+			"ammoType": "energy",
+			"weaponType": "ar",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "L-Star EMG",
+			"ammoType": "energy",
+			"weaponType": "lmg",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Volt SMG",
+			"ammoType": "energy",
+			"weaponType": "smg",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "30-30 Repeater",
+			"ammoType": "heavy",
+			"weaponType": "marksman",
+			"hop-up": ["Shatter Caps (Epic)"],
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Hemlock Burst AR",
+			"ammoType": "heavy",
+			"weaponType": "ar",
+			"hop-up": ["Boosted Loader (Legendary)"],
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "M600 Spitfire",
+			"ammoType": "heavy",
+			"weaponType": "lmg",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "VK-47 Flatline",
+			"ammoType": "heavy",
+			"weaponType": "ar",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Wingman",
+			"ammoType": "heavy",
+			"weaponType": "pistol",
+			"hop-up": ["Boosted Loader (Legendary)"],
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Alternator SMG",
+			"ammoType": "light",
+			"weaponType": "smg",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "G7 Scout",
+			"ammoType": "light",
+			"weaponType": "marksman",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "P2020",
+			"ammoType": "light",
+			"weaponType": "pistol",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "R-301 Carbine",
+			"ammoType": "light",
+			"weaponType": "ar",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "R-99 SMG",
+			"ammoType": "light",
+			"weaponType": "smg",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "RE-45 Auto",
+			"ammoType": "light",
+			"weaponType": "pistol",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Charge Rifle",
+			"ammoType": "sniper",
+			"weaponType": "sniper",
+			"hop-up": null,
+			"multiple-hop-ups": false
+		},
+		{
+			"name": "Longbow DMR",
+			"ammoType": "sniper",
+			"weaponType": "lmg",
+			"hop-up": null,
+			"multiple-hop-ups": false,
+			"attachments": {
+				"mag": [
+					"Extended Sniper Mag (Common)",
+					"Extended Sniper Mag (Rare)",
+					"Extended Sniper Mag (Epic)",
+					"Extended Sniper Mag (Legendary)"
+				],
+				"barrel": [
+					"Barrel Stabilizer (Common)",
+					"Barrel Stabilizer (Rare)",
+					"Barrel Stabilizer (Epic)"
+				]
+			}
+		},
+		{
+			"name": "Sentinel",
+			"ammoType": "sniper",
+			"weaponType": "sniper",
+			"hop-up": null,
+			"multiple-hop-ups": false,
+			"attachments": {
+				"mag": [
+					"Extended Sniper Mag (Common)",
+					"Extended Sniper Mag (Rare)",
+					"Extended Sniper Mag (Epic)",
+					"Extended Sniper Mag (Legendary)"
+				],
+				"barrel": [
+					"Barrel Stabilizer (Common)",
+					"Barrel Stabilizer (Rare)",
+					"Barrel Stabilizer (Epic)"
+				]
+			}
+		}
+	],
+	"ammoTypes": [
+		{
+			"type": "all",
+			"attachments": {
+				"optic": [
+					"1x HCOG 'Classic' (Common)",
+					"2x HCOG 'Bruiser' (Rare)",
+					"1x Holo (Common)",
+					"1x-2x Variable Holo (Rare)"
+				]
+			}
+		},
+		{
+			"type": "bow",
+			"ammoMultiplier": 14,
+			"ammoStackSize": 28,
+			"attachments": {
+				"optic": [
+					"1x HCOG 'Classic' (Common)",
+					"2x HCOG 'Bruiser' (Rare)",
+					"1x Holo (Common)",
+					"1x-2x Variable Holo (Rare)",
+					"3x HCOG 'Ranger' (Epic)"
+				]
+			}
+		},
+		{
+			"type": "shotgun",
+			"ammoMultiplier": 8,
+			"ammoStackSize": 16,
+			"attachments": {
+				"optic": [
+					"1x HCOG 'Classic' (Common)",
+					"2x HCOG 'Bruiser' (Rare)",
+					"1x Holo (Common)",
+					"1x-2x Variable Holo (Rare)",
+					"1x Digital Threat (Legendary)"
+				],
+				"mag": [
+					"Shotgun Bolt (Common)",
+					"Shotgun Bolt (Rare)",
+					"Shotgun Bolt (Epic)"
+				]
+			}
+		},
+		{
+			"type": "energy",
+			"ammoMultiplier": 20,
+			"attachments": {
+				"optic": [
+					"1x Digital Threat (Legendary)",
+					"3x HCOG 'Ranger' (Epic)",
+					"2x-4x Variable AOG (Epic)"
+				],
+				"barrel": [
+					"Barrel Stabilizer (Common)",
+					"Barrel Stabilizer (Rare)",
+					"Barrel Stabilizer (Epic)"
+				],
+				"mag": [
+					"Extended Energy Mag (Common)",
+					"Extended Energy Mag (Rare)",
+					"Extended Energy Mag (Epic)",
+					"Extended Energy Mag (Legendary)"
+				],
+				"stock": [
+					"Standard Stock (Common)",
+					"Standard Stock (Rare)",
+					"Standard Stock (Epic)"
+				]
+			}
+		},
+		{
+			"type": "heavy",
+			"ammoMultiplier": 20,
+			"attachments": {
+				"optic": [
+					"1x HCOG 'Classic' (Common)",
+					"2x HCOG 'Bruiser' (Rare)",
+					"1x Holo (Common)",
+					"1x-2x Variable Holo (Rare)",
+					"1x Digital Threat (Legendary)",
+					"3x HCOG 'Ranger' (Epic)",
+					"2x-4x Variable AOG (Epic)"
+				],
+				"barrel": [
+					"Barrel Stabilizer (Common)",
+					"Barrel Stabilizer (Rare)",
+					"Barrel Stabilizer (Epic)"
+				],
+				"mag": [
+					"Extended Heavy Mag (Common)",
+					"Extended Heavy Mag (Rare)",
+					"Extended Heavy Mag (Epic)",
+					"Extended Heavy Mag (Legendary)"
+				],
+				"stock": [
+					"Standard Stock (Common)",
+					"Standard Stock (Rare)",
+					"Standard Stock (Epic)"
+				]
+			}
+		},
+		{
+			"type": "light",
+			"ammoMultiplier": 20,
+			"attachments": {
+				"optic": [
+					"1x HCOG 'Classic' (Common)",
+					"2x HCOG 'Bruiser' (Rare)",
+					"1x Holo (Common)",
+					"1x-2x Variable Holo (Rare)",
+					"1x Digital Threat (Legendary)",
+					"3x HCOG 'Ranger' (Epic)",
+					"2x-4x Variable AOG (Epic)"
+				],
+				"barrel": [
+					"Barrel Stabilizer (Common)",
+					"Barrel Stabilizer (Rare)",
+					"Barrel Stabilizer (Epic)"
+				],
+				"mag": [
+					"Extended Light Mag (Common)",
+					"Extended Light Mag (Rare)",
+					"Extended Light Mag (Epic)",
+					"Extended Light Mag (Legendary)"
+				],
+				"stock": [
+					"Standard Stock (Common)",
+					"Standard Stock (Rare)",
+					"Standard Stock (Epic)"
+				]
+			}
+		},
+		{
+			"type": "sniper",
+			"ammoMultiplier": 12,
+			"attachments": {
+				"optic": [
+					"1x HCOG 'Classic' (Common)",
+					"2x HCOG 'Bruiser' (Rare)",
+					"1x Holo (Common)",
+					"1x-2x Variable Holo (Rare)",
+					"3x HCOG 'Ranger' (Epic)",
+					"2x-4x Variable AOG (Epic)",
+					"6x Sniper (Rare)",
+					"4x-8x Variable Sniper (Epic)",
+					"4x-10x Digital Sniper Threat (Legendary)"
+				],
+				"barrel": [
+					"Barrel Stabilizer (Common)",
+					"Barrel Stabilizer (Rare)",
+					"Barrel Stabilizer (Epic)"
+				],
+				"mag": [
+					"Extended Sniper Mag (Common)",
+					"Extended Sniper Mag (Rare)",
+					"Extended Sniper Mag (Epic)",
+					"Extended Sniper Mag (Legendary)"
+				],
+				"stock": [
+					"Sniper Stock (Common)",
+					"Sniper Stock (Rare)",
+					"Sniper Stock (Epic)"
+				]
+			}
+		}
+	],
+	"weaponTypes": [
+		{
+			"type": "all",
+			"attachmentSlots": [
+				"optic"
+			]
+		},
+		{
+			"type": "sniper",
+			"attachments": {
+				
+			}
+		}
+	],
+	"throwables": {
+		"names": [
+			"Arc Star",
+			"Frag Grenade",
+			"Thermite Grenade"
+		]
+	},
+	"regen": {
+		"health": [
+			{"name": "Syringe", "stack_size": 4},
+			{"name": "Med Kit", "stack_size": 2}
+		],
+		"shield": [
+			{"name": "Shield Cell", "stack_size": 4},
+			{"name": "Shield Battery", "stack_size": 2}
+		],
+		"combo": [
+			{"name": "Pheonix Kit", "stack_size": 1}
+		],
+		"ultimate": [
+			{"name": "Ultimate Accelerant", "stack_size": 1}
+		]
+	},
+	"gear": {
+		"tiers": [
+			"Common",
+			"Rare",
+			"Epic",
+			"Legendary"
+		],
+		"items": [
+			"Backpack",
+			"Knockdown Shield",
+			"Helmet",
+			"Shield"
+		],
+		"shield_types": [
+			"Evo",
+			"Body"
+		]
+	}
+}
