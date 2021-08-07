@@ -108,7 +108,7 @@
 			"name": "Havoc Rifle",
 			"ammoType": "energy",
 			"weaponType": "ar",
-			"hop-up": null,
+			"hop-up": ["Turbocharger (Legendary)"],
 			"multiple-hop-ups": false
 		},
 		{
